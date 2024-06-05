@@ -6,7 +6,7 @@ public class Driver {
 
         Kalkulator kalkulator = new Kalkulator();
 
-        System.out.println("Hasil awal: " + kalkulator.dapatkanHasil());
+        System.out.println("Hasil awal adalah: " + kalkulator.dapatkanHasil());
 
         kalkulator.tambah(9); 
 
